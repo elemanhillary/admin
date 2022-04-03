@@ -73,3 +73,5 @@ yarn-error.log
 
 contentful-import*
 contentful-export*
+# Local Netlify folder
+.netlify
