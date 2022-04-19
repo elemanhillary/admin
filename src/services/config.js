@@ -1,6 +1,7 @@
 import { QueryClient } from "react-query"
 
-let medusaUrl = "https://get-drunk.herokuapp.com/"
+let medusaUrl = "http://localhost:9000/"
+// "https://get-drunk.herokuapp.com/"
 
 // deprecated
 if (process.env.GATSBY_STORE_URL) {
